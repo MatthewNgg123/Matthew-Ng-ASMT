@@ -1,0 +1,42 @@
+=== Student Gradebook Report ===
+
+Name: Matthew
+Scores: 100.0, 100.0, 100.0
+Average: 100.0
+------------------------------
+=== Student Gradebook Report ===
+
+Name: mat
+Scores: 2.0, 2.0, 2.0
+Average: 2.0
+------------------------------
+=== Student Gradebook Report ===
+
+Name: Matthew
+Scores: 100.0, 100.0, 100.0
+Average: 100.0
+------------------------------
+Name: mat
+Scores: 2.0, 2.0, 2.0
+Average: 2.0
+------------------------------
+=== Student Gradebook Report ===
+
+Name: Matthew
+Scores: 100.0, 100.0, 100.0
+Average: 100.0
+------------------------------
+Name: mat
+Scores: 2.0, 2.0, 2.0
+Average: 2.0
+------------------------------
+=== Student Gradebook Report ===
+
+Name: Matthew
+Scores: 100.0, 100.0, 100.0
+Average: 100.0
+------------------------------
+Name: mat
+Scores: 2.0, 2.0, 2.0
+Average: 2.0
+------------------------------

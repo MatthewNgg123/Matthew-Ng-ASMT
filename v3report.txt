@@ -1,0 +1,20 @@
+=== Student Gradebook Report ===
+
+Name: john
+Scores: 95.0, 92.0, 22.0
+Average: 69.67
+------------------------------
+Name: kate
+Scores: 45.0, 39.0, 90.0
+Average: 58.0
+------------------------------
+=== Student Gradebook Report ===
+
+Name: Matthew
+Scores: 12.0, 23.0, 34.0
+Average: 23.0
+------------------------------
+Name: John
+Scores: 5.0, 60.0, 11.0
+Average: 25.33
+------------------------------

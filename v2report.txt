@@ -1,0 +1,23 @@
+=== Gradebook Report ===
+matthew - Scores: [95.0, 10.0, 20.0], Average: 41.67
+------------------------------
+=== Gradebook Report ===
+Name: ma
+Scores: [12.0, 12.0, 12.0]
+ Average: 12.0
+------------------------------
+===== Gradebook Report =====
+Name: ma
+Scores: [23.0, 23.0, 23.0]
+Average: 23.0
+------------------------------
+====== Gradebook Report ======
+Name: s
+Scores: [1.1, 1.2, 1.3]
+Average: 1.2
+------------------------------
+====== Gradebook Report ======
+Name: m
+Scores: [1.0, 2.0, 3.0]
+Average: 2.0
+------------------------------
